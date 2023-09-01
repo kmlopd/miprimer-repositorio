@@ -1,0 +1,3 @@
+Definir la maquina virtual de java en el pach ...
+
+Establecer el puerto 8080 como publico...E.T.C
